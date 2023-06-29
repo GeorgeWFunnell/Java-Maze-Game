@@ -1,0 +1,29 @@
+0,1,10,18,Enter Maze,You enter the maze which way do you go?
+1,2,3,3,You walk left and see three leavers,Which one do you pull?
+2,0,0,0,The floor opens up and you fall on spikes, Play again?(Click to any continue)
+3,4,5,10,A door opens you walk through,The ceiling starts to tremble you have 3 options go back to where you came from(Left) go to a door at the end of the room(Middle) or go through a small tunnel(Right)
+4,0,0,0,You are too slow and the ceiling falls on you, Play again?(Click to any continue)
+5,4,6,4,The door is locked, You can go Turn back(Left) Retry the door(Middle) or try the tunnel(Right)
+6,7,8,9,You manage to barge open the door and walk into the room,In the room there are 3 doors each with an item attached to it Trophy(Left) Key(Middle) and book(Right)
+7,0,0,0,Your greed will be the end of you the room fills with gas you lose, Play again?(Click to any continue)
+8,0,0,0,Dont be hasty the room fills with gas you lose, Play again?(Click to any continue)
+9,25,25,25,Knowledge is KEY,Click to any continue
+10,11,16,17, You go into a small tunnel and start sliding down a slope and fall into a pit of snake, Do you choose Sneak past the snakes and exit through the door(left). Try to climb the wall(Middle). or play the flute and try and charm the snakes(Right)
+11,12,11,13,In the next room there is a giant spider,Do you run(left) or fight it(right)?
+12,6,6,6,You manage to find a door, click any to continue
+13,14,13,15,while fighting the spider it bites your arm off,Do you continue fighting(left) or flee(right)?
+14,0,0,0,While somehow still fighting the spider it bites your head off, Play again?(Click to any continue)
+15,0,0,0,While trying to flee the spider webs you and eats you, Play again?(Click to any continue)
+16,0,0,0,You try to climb the wall you cant you die, Play again?(Click to any continue)
+17,0,0,0,Your flute wakes up the snakes and they eat you beacuse snake charmers are frauds, Play again?(Click to any continue)
+18,19,27,28,You chose right. The walls start closing in on itslef,Do you run to the door at the end(left) hide in the opening in the walls(forward) or Try to turn back(Right)
+19,20,19,26,You make it too the room,Then the room starts to fill up with water you can ethier try breaking the glass close to you(left) or try breathing through the small pipes in the ground(right).
+20,21,21,21,You try breaking the glass and it works it shatters, you fall into another room.
+21,22,23,24,In the room there are 3 cups you must pick one up, A skull cup(left) a old rusty gold cup(middle) or a shining silver cup(right)
+22,0,0,0,You chose the skull cup as you drink from the cup your insides start to burn up and you die, Play again?(Click to any continue)
+23,0,0,0,You chose the rust gold cup as you drink from the cup you beigin to cough out blood and after 30 seconds of pain you die, Play again?(Click to any continue)
+24,25,25,25,Sometimes the most obvious is the correct way forward, Click to any continue
+25,0,0,0,Congratulations YOU WIN!!!, Play Again??
+26,0,0,0,You try to breath through the pipes in the ground but there is not oxygen they are just pipes so you drown, Play again?(Click to any continue)
+27,0,0,0,You hide in the opening in the walls and you are ok but the wall never reopen and you starve to death, Play again?(Click to any continue)
+28,0,0,0, You try to run back but you dont make it in time and you get crushed, Play again?(Click to any continue)
